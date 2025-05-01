@@ -1,1 +1,4 @@
-# Word-Clock
+Usability and User experience of the word clock:
+Usability review: In my Word clock application, I was not able to create the time zone control due to my overestimation of my abilities in the logic of that. I would say the display of the time displayed is very good and visible. The text is highlighted is red and in bold letters in illuminated light. The response accuracy is very good such that it’s a very good estimation of the current time. All in all, my usability is not exactly what I “promised” in assignment 2 and I wish I could change It now.
+
+User Experience review: I would say the user experience for my application was a better part of my promises for assignment 2. The performance and reliability of the application is very well optimized for both performance and dependability. It is very simple and has a decent estimation of the time without being overwhelmed by unnecessary features and functions. The visual design of the application is not as crafty as I said it would be but is very easy on the eye. My application is very simple with good features to have for a simple clock.
